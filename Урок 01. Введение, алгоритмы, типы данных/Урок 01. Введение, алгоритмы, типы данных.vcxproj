@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson 1.cpp" />
+    <ClCompile Include="Lesson 01.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Console Setup.h" />
@@ -135,6 +135,9 @@
     <ClInclude Include="Вывод данных.h" />
     <ClInclude Include="Переменные константы.h" />
     <ClInclude Include="Типы данных.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Урок 01. Введение, алгоритмы, типы данных.pdf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

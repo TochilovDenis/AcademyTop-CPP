@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson 1.cpp">
+    <ClCompile Include="Lesson 01.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,5 +35,8 @@
     <ClInclude Include="Типы данных.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Урок 01. Введение, алгоритмы, типы данных.pdf" />
   </ItemGroup>
 </Project>
